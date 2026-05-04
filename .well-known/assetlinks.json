@@ -4,5 +4,11 @@
         "namespace": "android_app",
         "package_name": "io.github.ztronik.adminpoin",
         "sha256_cert_fingerprints": ["B2:6F:0D:AD:A3:E0:4D:E7:CB:A0:09:A9:DA:95:96:DB:1A:0A:AD:36:22:86:E2:37:C2:FF:37:4D:BA:BB:72:43"]
+      },
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ztronik.poinmember",
+        "sha256_cert_fingerprints": ["C6:3F:EA:A0:0C:FD:B0:D4:BF:E9:E5:BC:25:9A:05:7B:E1:EB:C1:FD:92:A6:93:35:04:77:8B:6D:CB:CA:00:69"]
       }
     }]
