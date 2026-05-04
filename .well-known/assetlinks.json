@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.ztronik.twa",
+        "sha256_cert_fingerprints": ["98:8A:60:40:59:12:06:95:A8:25:A0:98:E9:31:BA:76:B6:16:F4:5F:3C:5F:23:4F:A8:F9:4E:B9:CB:6C:3B:63"]
+      }
+    }]
